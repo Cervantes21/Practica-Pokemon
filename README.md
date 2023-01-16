@@ -43,24 +43,24 @@ Instead, you can watch more details with this [Notebook](https://github.com/Cerv
 
 > python3 -m venv venv
 
-![step1](./raw/step1)
+![step1](./raw/step1.jpeg)
 ### Step 2:
 
 > source venv/bin/activate
 
-![Step2](./raw/step2)
+![Step2](./raw/step2.jpeg)
 
 ### Step 3:
 
 > pip install requests
 
-![step3](./raw/step3)
+![step3](./raw/step3.jpeg)
 
 ### Step 4:
 
 > python3 pokedex.py
 
-![step4](./raw/step4)
+![step4](./raw/step4.jpeg)
 
 ### If you get out of virtual enviroment
 
