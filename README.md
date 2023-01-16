@@ -13,19 +13,20 @@ Digit in your shell 'git clone https://github.com/Cervantes21/Practica-Pokemon.g
 
 * Open the sharpe with commmands:
 
-´´´ssh
+´´´
 $ ls
+
 ´´´
 
-´´´ssh
+´´´
 $ cd Practica-Pokemon/
 ´´´
 
-´´´ssh
+´´´bash
 $ ls
 ´´´
 
-´´´ssh
+´´´bash
 $ python3 pokedex.py
 ´´´
 
