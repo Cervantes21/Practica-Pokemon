@@ -13,12 +13,21 @@ Digit in your shell 'git clone https://github.com/Cervantes21/Practica-Pokemon.g
 
 * Open the sharpe with commmands:
 
-> ´´´shell
+´´´chmod
 $ ls
+´´´
+´´´chmod
 $ cd Practica-Pokemon/
+´´´
+´´´chmod
 $ ls
+´´´
+
+´´´chmod
 $ python3 pokedex.py
 ´´´
+
+
 
 Now input Enter for start
 and choose number for research in your pokedex.
