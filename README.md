@@ -56,7 +56,7 @@ Instead, you can watch more details with this [Notebook](https://github.com/Cerv
 
 ![step3](./raw/step3.jpeg)
 
-### **Install packages with pip: -r requirements.txt**
+### **Or you can install packages with pip: -r requirements.txt**
 
 > $ pip install -r requirements.txt
  
