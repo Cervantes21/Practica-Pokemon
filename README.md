@@ -43,23 +43,25 @@ Instead, you can watch more details with this [Notebook](https://github.com/Cerv
 
 > python3 -m venv venv
 
-![step1](blob:https://web.whatsapp.com/61d2a213-a710-4de4-a09e-11648e2b20f0)
+![step1](./raw/step1)
 ### Step 2:
 
 > source venv/bin/activate
 
-![Step2](blob:https://web.whatsapp.com/45102bf2-019b-4eed-8aa4-50c0a0c9a7b7)
+![Step2](./raw/step2)
 
 ### Step 3:
 
 > pip install requests
 
-![step3](blob:https://web.whatsapp.com/db253039-de76-42c4-bd30-71a6b3cbdd65)
+![step3](./raw/step3)
 
 ### Step 4:
 
 > python3 pokedex.py
 
-![step4](blob:https://web.whatsapp.com/e48ac58c-8077-4e10-848d-712cbaa7ce21)
+![step4](./raw/step4)
 
+### If you get out of virtual enviroment
 
+> **deactivate**
