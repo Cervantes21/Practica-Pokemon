@@ -13,15 +13,18 @@ Digit in your shell 'git clone https://github.com/Cervantes21/Practica-Pokemon.g
 
 * Open the sharpe with commmands:
 
-
-> $ ls
-
-> $ cd Practica-Pokemon/
-
-> $ ls
-
-> $ python3 pokedex.py
-
+```
+ $ ls
+```
+```
+ $ cd Practica-Pokemon/
+```
+```
+ $ ls
+```
+```
+$ python3 pokedex.py
+```
 
 
 Now input Enter for start
@@ -40,34 +43,37 @@ Instead, you can watch more details with this [Notebook](https://github.com/Cerv
 ## For Termux Shell
 
 ### Step 1:
-
-> python3 -m venv venv
-
+```
+python3 -m venv venv
+```
 ![step1](./raw/step1.jpeg)
+
 ### Step 2:
-
-> source venv/bin/activate
-
+```
+source venv/bin/activate
+```
 ![Step2](./raw/step2.jpeg)
 
 ### Step 3:
-
-> pip install requests
-
+```
+pip install requests
+```
 ![step3](./raw/step3.jpeg)
 
 ### **Or you can install packages with pip: -r requirements.txt**
-
-> $ pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
+```
 ![requirements](./raw/requirements.jpeg)
  
 ### Step 4:
-
-> python3 pokedex.py
-
+```
+python3 pokedex.py
+```
 ![step4](./raw/step4.jpeg)
 
 ### If you get out of virtual enviroment
+```
+deactivate
+```
 
-> **deactivate**
